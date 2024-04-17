@@ -1,0 +1,2 @@
+# lazyloading
+lazyloadin in angular
